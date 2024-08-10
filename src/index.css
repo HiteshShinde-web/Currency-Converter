@@ -1,6 +1,12 @@
 body {
   font-family: sans-serif;
+  background-color: rgb(151, 172, 217)
+  
 }
+
+
+
+
 
 @tailwind base;
 @tailwind components;
